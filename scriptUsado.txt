@@ -1,1 +1,5 @@
+##XSS REFLECTED O STORED
 <script src="../../doomsday.js"></script>
+
+##XSS DOM
+http://localhost/DVWA/vulnerabilities/xss_d/?default=opcion%20no%20valida
